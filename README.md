@@ -5,4 +5,6 @@ A password manager that manages all your passwords, you can search existing, add
 Made by using Python Tkinter
 
 # Cool Features
-After adding data, The password is automatically get copied to clipboard.
+1.After adding data, The password is automatically get copied to clipboard.
+
+2. It has a button to auto generate a random password.
