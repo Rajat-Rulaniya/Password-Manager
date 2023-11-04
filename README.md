@@ -10,4 +10,5 @@ After adding data, The password is automatically get copied to clipboard.
 It has a button to auto generate a random password.
 
 # Features to be added
+
 Copy Password button in PopUp when user searches a website.
